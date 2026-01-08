@@ -1,0 +1,19 @@
+---
+title: "Quarto Practice"
+author: "Violet and Sora"
+format: gfm
+editor: visual
+date: 2026-01-07
+---
+
+## Header 2
+
+### Header 3
+
+Hello *our* names are **Violet** and ***Sora***
+
+```{r}
+
+10+20
+
+```
